@@ -1,0 +1,95 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: Find nearby metered parking spots{% endblock %}
+
+{% block script_block %}
+    <link rel="stylesheet" href="{% static "django_google_maps/css/google-maps-admin.css" %}" />
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="{% static "django_google_maps/js/google-maps-admin.js" %}"></script>
+    <script>
+        {% if user.is_authenticated %}
+            var loggedIn = true;
+        {% else %}
+            var loggedIn = false;
+        {% endif %}
+    </script>
+{% endblock %}
+
+{% block body_block %}
+
+    <div id="query">
+        <img id="pullout" src="{% static "images/pullout.png" %}"/>
+        <p><b> Meter Type </b></p>
+        <p><input type="checkbox" checked id="reg_check"/> Regular meter</p>
+        <p><input type="checkbox" checked id="handi_check"/> Handicap meter</p>
+        <p><input type="checkbox" checked id="moto_check"/> Motorcycle meter</p>
+        <br/>
+        <p><b> Pricing </b></p>
+            <p> <select default=all id="price_check">
+                <option value=100>all</option>
+                <option value=1.00>&#60;$1.00</option>
+                <option value=1.50>&#60;$1.50</option>
+                <option value=2.00>&#60;$2.00</option>
+                <option value=2.50>&#60;$2.50</option>
+                <option value=3.00>&#60;$3.00</option>
+                <option value=3.50>&#60;$3.50</option>
+                <option value=4.00>&#60;$4.00</option>
+                <option value=4.50>&#60;$4.50</option>
+                <option value=5.00>&#60;$5.00</option>
+                <option value=5.50>&#60;$5.50</option>
+                <option value=6.00>&#60;$6.00</option>
+            </select></p>
+        <br/>
+        {% if user.is_authenticated %}
+        <p><b> Favorite spots: </b> <input type="checkbox" checked id="fav_check"/> </p>
+        <br/>
+        {% endif %}
+        <p><b> Time: </b></p>
+            <p> <select default=all id="time_check">
+                <option value="all">all</option>
+                <option value="1">1:00</option>
+                <option value="2">2:00</option>
+                <option value="3">3:00</option>
+                <option value="4">4:00</option>
+                <option value="5">5:00</option>
+                <option value="6">6:00</option>
+                <option value="7">7:00</option>
+                <option value="8">8:00</option>
+                <option value="9">9:00</option>
+                <option value="10">10:00</option>
+                <option value="11">11:00</option>
+                <option value="0">12:00</option>
+            </select>
+
+            <select default=1 id="m_check">
+                <option value="1">AM</option>
+                <option value="2">PM</option>
+        </select></p>
+    </div>
+
+    <div id="search">
+        <input type="text" autofocus placeholder="Enter your destination address" name="address" id="id_address" />
+        <input id="address_button" type="image" src="{% static "images/search.jpg" %}" />
+    </div>
+
+    <div id="map_canvas"></div>
+
+    <div id="legend">
+        <div class="legend">
+            <img src="{% static "images/logo.png" %}"/> Regular Spot
+        </div>
+        <div class="legend">
+            <img src="{% static "images/handilogo.png" %}"/> Handicapped Spot
+        </div>
+        <div class="legend">
+            <img src="{% static "images/motologo.png" %}"/> Motorcycle Spot
+        </div>
+        <div class="legend">
+            <img src="{% static 'images/closures.png' %}"/> Road Closures
+        </div>
+    </div>
+    <p class="update"> Last updated: {% now "D, d M Y H:i:s" %} </p>
+
+{% endblock %}

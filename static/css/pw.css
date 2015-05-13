@@ -1,0 +1,251 @@
+@font-face {
+    font-family: Ticketing; src:url(fonts/Ticketing.ttf);
+}
+
+br {
+	background-image: 
+}
+
+#menu {
+    border-radius: 20px;
+    border: 20px solid;
+    border-color: #28bfee;
+    width: 80%;
+    height: 112px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    font-family: inherit;
+}
+
+#logo {
+    width:15%;
+    height: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+}
+
+#logoimg:hover {
+    -webkit-animation-name: flip; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 40.5s; /* Chrome, Safari, Opera */
+    animation-name: flip;
+    animation-duration: 0.25s;
+    animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes flip {
+    50%  {-ms-transform: rotate(180deg) scaleX(1.35) scaleY(1.35); /* IE 9 */
+        -webkit-transform: rotate(180deg) scaleX(1.35) scaleY(1.35); /* Chrome, Safari, Opera */
+        transform: rotate(180deg) scaleX(1.35) scaleY(1.35);
+        }
+    100% {-ms-transform: rotate(360deg) scaleX(1) scaleY(1); /* IE 9 */
+        -webkit-transform: rotate(360deg) scaleX(1) scaleY(1); /* Chrome, Safari, Opera */
+        transform: rotate(360deg) scaleX(1) scaleY(1);
+        }
+}
+
+@keyframes flip {
+    50%  {-ms-transform: rotate(180deg) scaleX(1.35) scaleY(1.35); /* IE 9 */
+        -webkit-transform: rotate(180deg) scaleX(1.35) scaleY(1.35); /* Chrome, Safari, Opera */
+        transform: rotate(180deg) scaleX(1.35) scaleY(1.35);
+        }
+    100% {-ms-transform: rotate(360deg) scaleX(1) scaleY(1); /* IE 9 */
+        -webkit-transform: rotate(360deg) scaleX(1) scaleY(1); /* Chrome, Safari, Opera */
+        transform: rotate(360deg) scaleX(1) scaleY(1);
+    }
+}
+
+#title {
+    width: 50%;
+    height: 80%;
+    font: Garamond;
+    font-size: 64px;
+    float: left;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: Ticketing;
+}
+
+#user {
+    width: 25%;
+    height: 80%;
+    float: right;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-family: Ticketing;
+    
+}
+
+#map_canvas {
+
+    margin-left: 10%;
+    margin-top: 2%;
+    border: 5px solid;
+    border-color: #28bfee;
+}
+
+#small_map_canvas {
+    height: 300px;
+    width: 300px;
+    margin-top: 2%;
+    border: 5px solid;
+    border-color: #28bfee;
+}
+
+#legend {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.legend {
+    display: inline;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: Ticketing;
+}
+
+#search {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+#titleparagraph {
+    font-size: 96px;
+}
+
+#id_address {
+    float: left;
+    margin-left: 25%;
+    min-width: 75px;
+    
+}
+
+#address_button {
+    float: left;
+    margin-right: auto;
+    height: 3%;
+    width: 3%;
+}
+
+#query {
+	float: left;
+	z-index: 99;
+	position: fixed;
+	top: 150px;
+	width: 200px;
+	height: 450px;
+	left: -175px;
+	border-style: solid;
+	background-color: white;
+	-webkit-border-color: #28BFEE;
+	-moz-border-color: #28BFEE;
+	-o-border-color: #28BFEE;
+	border-color: #28BFEE #28BFEE #28BFEE transparent;
+	border-width: 5px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-transition: left 1s; /* Safari */
+	-moz-transition: left 1s; /* Firefox */
+	-o-transition: left 1s; /* Opera */
+    transition: left 1s;
+}
+
+#query:hover {
+	left: -10px;
+}
+
+#pullout {
+	float: right;
+	vertical-align: middle;
+	margin-top: 200px;
+}
+
+#query p {
+	position: relative;
+	left: 20px;
+}
+
+.meterRating input[type="radio"] {
+    display: none;
+}
+
+.meterRating {
+    font-family: Ticketing;
+}
+
+.meterRating label {
+    display: inline-block;
+    padding: 1px 1px;
+    height: 50px;
+    width: 50px;
+    background-image: url(../images/whale-empty.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.meterRating input[type="radio"]:checked + label {
+    background-image: url(../images/whale-full.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.meterRating input[type="radio"] + label:hover {
+    background-image: url(../images/whale-full.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.update {
+    margin-left: 35%;
+    margin-right: auto;
+    font-family: Ticketing;
+}
+
+.pwtitle {
+    font-family: Ticketing;
+    text-align: center;
+}
+
+.pwbutton {
+    margin-left: 180px;
+    margin-right: auto;
+}
+
+.pwdiv {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.pwpar {
+    font-family: Arial;
+    text-align: center;
+}
+
+.pwlist {
+    font-family: Arial;
+    text-align: center;
+}
+
+#mapdiv {
+    display: inline-block;
+    width: 400px;
+    margin-left: 35%;
+}
+
+#pwtweet {
+    margin-left: 45%;
+}
+
+.radiotitle {
+    font-family: Ticketing;
+}

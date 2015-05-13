@@ -1,0 +1,95 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: Meter No. {{ meter.name }}{% endblock %}
+
+{% block script_block %}
+    <link rel="stylesheet" href="{% static "django_google_maps/css/google-maps-admin.css" %}" />
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="{% static 'js/small_map_onespot.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/meter-rating.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/meter-favs.js' %}"></script>
+    <script>
+        {% if user.is_authenticated %}
+            var loggedIn = true;
+        {% else %}
+            var loggedIn = false;
+        {% endif %}
+
+        var meterName = {{ meter.name }};
+        var meterLat = {{ meter.lat }};
+        var meterLng = {{ meter.lng }};
+        var meterType = "{{ meter.type }}";
+        var rating = {{ rating }};
+        var isFav = "{{ fav }}";
+    </script>
+    <script>
+        $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng={{ meter.lat }},{{ meter.lng }}', {}, function(data){
+            if (data.status == google.maps.GeocoderStatus.OK) {
+                var address = "Address: " + data.results[0].formatted_address;
+                document.getElementById("meter-address").innerHTML = address;
+            }
+        });
+    </script>
+{% endblock %}
+
+{% block body_block %}
+    <br>
+    <div class="pwdiv">
+    <div id="small_map_canvas">
+    </div>
+    </div>
+
+    <h2 class="pwtitle">Meter ID: {{ meter.name }} <input id="fav-button" type="button"></button></h2>
+    <p class="pwtitle" id="meter-address"></p>
+    <p class="pwtitle">Type of parking spot: {{ meter.type}}</p>
+    {% if meter.timeOfEffect %}
+        <p class="pwtitle">{{ meter.rate}}</p>
+        <p class="pwtitle">{{ meter.timeOfEffect }}</p>
+        <p class="pwtitle">{{ meter.timeLimit }}</p>
+    {% endif %}
+    <br>
+    <div id="mapdiv">
+    <span class="meterRating">
+        <p class="radiotitle">This Spot's Rating Out of Five:</p>
+        <input id="rate1" type="radio"><label for="rate1"></label>
+        <input id="rate2" type="radio"><label for="rate2"></label>
+        <input id="rate3" type="radio"><label for="rate3"></label>
+        <input id="rate4" type="radio"><label for="rate4"></label>
+        <input id="rate5" type="radio"><label for="rate5"></label>
+        <p class="radiotitle" id="users-rating">You haven't rated yet... pick a whale on the scale :3!</p>
+        <div id="rating-msg"></div>
+        <br>
+    </span>
+    </div>
+
+    <a id="pwtweet" href="https://twitter.com/share" class="twitter-share-button" data-text="Check out my favourite Vancouver parking spot on #ParkWhale, {{ meter.name }}:">Tweet</a>
+
+
+<script>
+    !function(d,s,id){
+        var js,fjs=d.getElementsByTagName(s)[0],
+        p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)){
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);
+        }
+    }
+    (document, 'script', 'twitter-wjs');
+</script>
+
+<!-- begin htmlcommentbox.com -->
+ <div id="HCB_comment_box">
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb">
+ if(!window.hcb_user){hcb_user={};}
+ (function(){var s=document.createElement("script"), l=(""+window.location).replace(/'/g,"%27") || hcb_user.PAGE, h="//www.htmlcommentbox.com";
+ s.setAttribute("type","text/javascript");
+ s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24kaDI.ZGQlUg20CEnTLg40%2F"+"&opts=16862&num=10");
+ if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end htmlcommentbox.com -->
+</div>
+{% endblock %}

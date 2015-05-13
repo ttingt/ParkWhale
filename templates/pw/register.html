@@ -1,0 +1,32 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: Register{% endblock %}
+
+{% block script_block %}{% endblock %}
+
+{% block body_block %}
+    
+    <br>
+    <h1 class="pwtitle">Register with ParkWhale</h1>
+    <br>
+
+    {% if registered %}
+    <p class="pwtitle">ParkWhale says: <strong>Thank you for registering!</strong></pw>
+    <a href="/">Return to the homepage.</a><br />
+    {% else %}
+    <p class="pwtitle">ParkWhale says: <strong>Register here!</strong><br /></p>
+
+    <form class="pwtitle" id="user_form" method="post" action="/register/">
+        {% csrf_token %}
+
+        {{ user_form.as_p }}
+        {{ profile_form.as_p }}
+
+        <!-- Provide a button to click to submit the form. -->
+        <input type="submit" name="submit" value="Register" />
+    </form>
+    {% endif %}
+
+{% endblock %}

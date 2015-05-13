@@ -1,0 +1,33 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: Login{% endblock %}
+
+{% block script_block %}{% endblock %}
+
+{% block body_block %}
+
+	<br>
+	<br>
+	<br>
+
+    <h1 class="pwtitle">Login to ParkWhale</h1>
+
+    <div class="pwdiv">
+
+	    <form id='login form' method="post" action="/login/">
+	        {% csrf_token %}
+	            <p class="pwtitle">Username:</p> <input class="pwform" type="text" name="username" value="" size="60" />
+	            <br />
+	            <br>
+	            <p class="pwtitle">Password:</p> <input class="pwform" type="password" name="password" value="" size="60" />
+	            <br />
+	            <br>
+
+	            <input class="pwbutton" type="submit" value="submit" />
+	    </form>
+
+	</div>
+
+{% endblock %}

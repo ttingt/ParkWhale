@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<name>motorcycle_parking</name>
+<visibility>1</visibility>
+<Style id="KMLStyler_11">
+<IconStyle>
+<colorMode>normal</colorMode>
+<scale>0.8</scale>
+<Icon>
+<href>images/A1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<LineStyle>
+<colorMode>normal</colorMode>
+</LineStyle>
+<PolyStyle>
+<colorMode>normal</colorMode>
+</PolyStyle>
+</Style>
+<Folder id="kml_ft_Motorcycle_Parking">
+<name>Motorcycle_Parking</name>
+<Placemark id="16156">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2660390505013,-123.070131996934'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.070131996934,49.2660390505013,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16175">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2641176566028,-123.069328256668'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069328256668,49.2641176566028,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16190">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2613221876761,-123.069000601056'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069000601056,49.2613221876761,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="4491">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $ .75&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2631597333776,-123.107532725439'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.107532725439,49.2631597333776,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="8986">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $5.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2840717530586,-123.11363188926'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11363188926,49.2840717530586,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9013">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $4.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2819351255461,-123.116864034159'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.116864034159,49.2819351255461,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9014">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.279748412952,-123.120181339091'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.120181339091,49.279748412952,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9019">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2776212614777,-123.123396485653'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.123396485653,49.2776212614777,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9024">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: Yes&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.287226951098,-123.11476298335'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11476298335,49.287226951098,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9025">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.28731403492,-123.114978556941'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.114978556941,49.28731403492,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9034">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2859737472753,-123.120976760189'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.120976760189,49.2859737472753,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9047">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2640455744977,-123.171499139498'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.171499139498,49.2640455744977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9051">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2645109899191,-123.171120747806'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.171120747806,49.2645109899191,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9056">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.25&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2913642730028,-123.129267070335'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.129267070335,49.2913642730028,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9060">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2791813979561,-123.128825315231'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.128825315231,49.2791813979561,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9066">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2856208972295,-123.115226107265'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115226107265,49.2856208972295,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15919">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.285922608221,-123.139613582543'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.139613582543,49.285922608221,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9073">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2764360798696,-123.117753032734'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117753032734,49.2764360798696,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9077">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.279574377186,-123.128641675187'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.128641675187,49.279574377186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16152">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2677444970919,-123.069249227883'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069249227883,49.2677444970919,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15941">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2886579613378,-123.119818444703'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.119818444703,49.2886579613378,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14824">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2573569220712,-123.101333428475'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101333428475,49.2573569220712,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15869">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2645345313256,-123.136252190826'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.136252190826,49.2645345313256,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15871">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2680076380365,-123.139727975945'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.139727975945,49.2680076380365,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15873">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2680678622525,-123.143434044599'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.143434044599,49.2680678622525,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15875">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2670990757523,-123.145365626342'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.145365626342,49.2670990757523,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15408">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2688235285111,-123.143457816563'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.143457816563,49.2688235285111,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15895">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2345584497809,-123.158793967761'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.158793967761,49.2345584497809,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15897">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2478881707258,-123.101253468149'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101253468149,49.2478881707258,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15899">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2473292649583,-123.101033239314'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101033239314,49.2473292649583,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15901">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2471083254842,-123.101319240884'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101319240884,49.2471083254842,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15903">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2795084792032,-123.097443101667'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.097443101667,49.2795084792032,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16296">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2663921265666,-123.069228022974'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069228022974,49.2663921265666,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15877">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2681446351914,-123.148154178058'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.148154178058,49.2681446351914,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15879">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2682122642658,-123.150283085066'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.150283085066,49.2682122642658,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15881">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2680812916386,-123.154949904425'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.154949904425,49.2680812916386,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15883">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2683577007164,-123.157415418068'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.157415418068,49.2683577007164,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15885">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2680621002902,-123.157593668705'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.157593668705,49.2680621002902,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15887">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2629898435721,-123.152863140265'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.152863140265,49.2629898435721,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15889">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2708217526331,-123.147773055112'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.147773055112,49.2708217526331,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15891">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2638847670405,-123.166574308237'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.166574308237,49.2638847670405,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15893">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2347395430383,-123.161524947735'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.161524947735,49.2347395430383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="8996">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2758110441701,-123.069845676477'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069845676477,49.2758110441701,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="8998">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2748045804896,-123.069114787043'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069114787043,49.2748045804896,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15759">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2736080226779,-123.123799845365'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.123799845365,49.2736080226779,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15761">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2741519004801,-123.12507630573'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.12507630573,49.2741519004801,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9005">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2713455363555,-123.069246405048'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069246405048,49.2713455363555,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9008">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2705484361507,-123.069336662705'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069336662705,49.2705484361507,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14654">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2628884684553,-123.09721417092'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.09721417092,49.2628884684553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15660">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2799597969514,-123.117931595385'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117931595385,49.2799597969514,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9010">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2704591711383,-123.068834693278'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.068834693278,49.2704591711383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15225">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2636625992404,-123.101979184177'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101979184177,49.2636625992404,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14795">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2591596133737,-123.101275961099'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101275961099,49.2591596133737,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15756">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2576328774492,-123.101045666068'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101045666068,49.2576328774492,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15308">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.263562361095,-123.186184246616'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.186184246616,49.263562361095,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16550">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2845468495591,-123.111005326611'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.111005326611,49.2845468495591,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15770">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.277303424541,-123.12030105898'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.12030105898,49.277303424541,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15772">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2774054177035,-123.119880081827'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.119880081827,49.2774054177035,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15774">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2794230670689,-123.117096643928'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117096643928,49.2794230670689,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15778">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2816310915638,-123.11374194324'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11374194324,49.2816310915638,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15780">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.28185472048,-123.113403527631'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.113403527631,49.28185472048,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15782">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2834894569161,-123.110696847284'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.110696847284,49.2834894569161,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15788">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2780723516867,-123.11492722394'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11492722394,49.2780723516867,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15790">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2817196014569,-123.123463579725'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.123463579725,49.2817196014569,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15792">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2824329970579,-123.128231912872'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.128231912872,49.2824329970579,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15794">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $4.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2851710407666,-123.123834044416'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.123834044416,49.2851710407666,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15796">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $5.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2880185579972,-123.119514254252'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.119514254252,49.2880185579972,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15798">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2860646455975,-123.126756567142'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.126756567142,49.2860646455975,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15806">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.288533330539,-123.125357941195'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.125357941195,49.288533330539,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15808">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $5.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2865085386591,-123.122223371798'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.122223371798,49.2865085386591,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15810">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2889174181909,-123.122876231969'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.122876231969,49.2889174181909,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14888">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2584540948419,-123.101416072364'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101416072364,49.2584540948419,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14955">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2575416444302,-123.101439792176'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101439792176,49.2575416444302,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15207">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2330871570926,-123.034235922892'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.034235922892,49.2330871570926,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9028">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 hour/4 hour&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2883258999858,-123.121357312172'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.121357312172,49.2883258999858,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9029">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 hour/4 hour&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2886062329879,-123.122322672953'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.122322672953,49.2886062329879,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15394">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.25&lt;br&gt;Credit Card Enabled: &lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2736253904899,-123.120930681416'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.120930681416,49.2736253904899,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9041">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 3 Hr&lt;br&gt;Rate: $ .75&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2907045495182,-123.131941377303'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.131941377303,49.2907045495182,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15119">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 3 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2334060833173,-123.03417656923'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.03417656923,49.2334060833173,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15391">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $5.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2881716342156,-123.115906051285'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115906051285,49.2881716342156,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15905">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2621393267631,-123.100828032307'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100828032307,49.2621393267631,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15907">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2559972862277,-123.114969054453'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.114969054453,49.2559972862277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15909">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2787580644145,-123.121938535789'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.121938535789,49.2787580644145,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15911">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2766536750983,-123.125120769296'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.125120769296,49.2766536750983,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15912">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.277659921815,-123.127262035685'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127262035685,49.277659921815,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15914">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2870455957468,-123.11734616723'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11734616723,49.2870455957468,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15916">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2640531006281,-123.112769999205'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.112769999205,49.2640531006281,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15918">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2633638027083,-123.133806656007'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.133806656007,49.2633638027083,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16309">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2335426883225,-123.035096210968'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.035096210968,49.2335426883225,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15812">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2882406005956,-123.118099957308'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.118099957308,49.2882406005956,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15814">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $6.00&lt;br&gt;Credit Card Enabled: Yes&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2875228461459,-123.115971347849'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115971347849,49.2875228461459,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15816">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2842238891235,-123.110053132315'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.110053132315,49.2842238891235,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15818">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2837397836711,-123.109307796962'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.109307796962,49.2837397836711,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15820">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2835914616231,-123.10898465624'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.10898465624,49.2835914616231,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15822">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2841762220253,-123.108934724973'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.108934724973,49.2841762220253,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15824">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2828088559348,-123.106941956529'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.106941956529,49.2828088559348,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15826">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2798043498348,-123.107831998931'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.107831998931,49.2798043498348,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15828">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2796023536553,-123.10734939252'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.10734939252,49.2796023536553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15830">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2791939392989,-123.10477875805'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.10477875805,49.2791939392989,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15832">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2833632097473,-123.102069345679'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.102069345679,49.2833632097473,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15834">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2839785009524,-123.099674972651'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.099674972651,49.2839785009524,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15836">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: 2 Hr&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2823394410276,-123.099303613721'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.099303613721,49.2823394410276,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15838">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.50&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2632014133684,-123.106731621075'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.106731621075,49.2632014133684,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15840">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2650320657072,-123.115079152756'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115079152756,49.2650320657072,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15842">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2640941348265,-123.115961707913'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115961707913,49.2640941348265,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9000">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273001075166,-123.069813046132'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069813046132,49.273001075166,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9002">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2721884309196,-123.069918397392'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069918397392,49.2721884309196,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="9004">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2720839478983,-123.0698206737'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.0698206737,49.2720839478983,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="14946">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2592450548735,-123.100858954714'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100858954714,49.2592450548735,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16693">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2808054405814,-123.122507446595'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.122507446595,49.2808054405814,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16300">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2799579121646,-123.117786372199'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117786372199,49.2799579121646,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15800">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $2.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2893060621133,-123.132216792358'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.132216792358,49.2893060621133,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15802">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $3.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2877870855817,-123.129867521306'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.129867521306,49.2877870855817,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="15804">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $4.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2854570539776,-123.123831529261'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.123831529261,49.2854570539776,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="16950">
+<name>Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Metered Motorcycle Parking&lt;br&gt;Time Limit: no time limit&lt;br&gt;Rate: $1.00&lt;br&gt;Credit Card Enabled: No&lt;br&gt;Location: n/a&lt;br&gt;Nearest Intersection: n/a&lt;br&gt;Time in Effect: METER IN EFFECT: 9:00 AM TO 10:00 PM&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2811327338754,-123.110673560364'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.110673560364,49.2811327338754,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR001">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 2300 Alberta&lt;br&gt;Nearest Intersection: W 8th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.263973,-123.110845'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.110845,49.263973,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR002">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2600 Alma&lt;br&gt;Nearest Intersection: W 10th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.263358,-123.186061'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.186061,49.263358,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR003">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner&lt;br&gt;Nearest Intersection: Ontario St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.271549,-123.104791'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.104791,49.271549,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR004">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner&lt;br&gt;Nearest Intersection: Columbia St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.271629,-123.109127'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.109127,49.271629,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR005">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 1600 Beach Av&lt;br&gt;Nearest Intersection: Cardero St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.283263,-123.141895'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.141895,49.283263,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR006">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 800 Bidwell&lt;br&gt;Nearest Intersection: Robson St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.290384,-123.134039'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.134039,49.290384,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR007">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2900 Cambie&lt;br&gt;Nearest Intersection: W 13th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.259351,-123.115166'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115166,49.259351,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR008">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 3000 Cambie&lt;br&gt;Nearest Intersection: W 15th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.257929,-123.114877'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.114877,49.257929,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR009">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 3500 Cambie&lt;br&gt;Nearest Intersection: W 19th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.253928,-123.115308'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115308,49.253928,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR010">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: W 21st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.252088,-123.115383'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115383,49.252088,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR011">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner&lt;br&gt;Nearest Intersection: W 23rd Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.250228,-123.115251'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115251,49.250228,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR012">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2300 Columbia&lt;br&gt;Nearest Intersection: W 7th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.264665,-123.109521'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.109521,49.264665,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR013">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner&lt;br&gt;Nearest Intersection: Stainsbury Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.252448,-123.067941'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.067941,49.252448,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR014">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 1700 Cook&lt;br&gt;Nearest Intersection: W 2nd Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.269178,-123.110022'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.110022,49.269178,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR015">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 800 E Cordova&lt;br&gt;Nearest Intersection: Hawks Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.282136,-123.086915'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.086915,49.282136,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR016">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 4200 Dunbar&lt;br&gt;Nearest Intersection: W 26th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.248909,-123.185302'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.185302,49.248909,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR017">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 4400 Dunbar&lt;br&gt;Nearest Intersection: W 28th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.247,-123.185319'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.185319,49.247,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR018">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 4400 Dunbar&lt;br&gt;Nearest Intersection: W 29th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.246287,-123.185118'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.185118,49.246287,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR019">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner&lt;br&gt;Nearest Intersection: Alexander St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.28413,-123.095181'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.095181,49.28413,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR020">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 600E 15th Av&lt;br&gt;Nearest Intersection: Fraser St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.257127,-123.089723'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.089723,49.257127,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR021">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 200E 28th Av&lt;br&gt;Nearest Intersection: Main St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.245668,-123.101014'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101014,49.245668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR022">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 1700 E 2nd Av&lt;br&gt;Nearest Intersection: Commercial Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268664,-123.069394'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.069394,49.268664,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR023">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 100 E 5th Av&lt;br&gt;Nearest Intersection: Main St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.266522,-123.101127'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101127,49.266522,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR024">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 200E 5th Av&lt;br&gt;Nearest Intersection: Scotia St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.266432,-123.099023'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.099023,49.266432,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR025">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 300 East Broadway&lt;br&gt;Nearest Intersection: Brunswick St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am/3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.262908,-123.168298'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.168298,49.262908,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR026">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 600 East Broadway&lt;br&gt;Nearest Intersection: Carolina St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am/3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.262362,-123.09089'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.09089,49.262362,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR027">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 800 East Broadway&lt;br&gt;Nearest Intersection: Prince Albert St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.262346,-123.08703'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.08703,49.262346,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR028">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 800 E Cordova&lt;br&gt;Nearest Intersection: Hawks Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.281988,-123.086907'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.086907,49.281988,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR029">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner&lt;br&gt;Nearest Intersection: Semlin Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.281271,-123.063793'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.063793,49.281271,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR030">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner&lt;br&gt;Nearest Intersection: Kamloops St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.281228,-123.054745'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.054745,49.281228,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR031">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner&lt;br&gt;Nearest Intersection: Penticton St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.281063,-123.051772'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.051772,49.281063,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR032">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 500 Evans&lt;br&gt;Nearest Intersection: Evans Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.272658,-123.092725'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.092725,49.272658,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR033">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 4100 Fraser&lt;br&gt;Nearest Intersection: E 26th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.247713,-123.090015'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090015,49.247713,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR034">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 4200 Fraser&lt;br&gt;Nearest Intersection: E 27th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.247509,-123.090358'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090358,49.247509,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR035">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 4200 Fraser&lt;br&gt;Nearest Intersection: E 27th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.246739,-123.090043'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090043,49.246739,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR036">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6000 Fraser&lt;br&gt;Nearest Intersection: E 44th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.22999,-123.090829'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090829,49.22999,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR037">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6200 Fraser&lt;br&gt;Nearest Intersection: E 46th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.228173,-123.090878'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090878,49.228173,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR038">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6400 Fraser&lt;br&gt;Nearest Intersection: E 48th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.226414,-123.090932'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090932,49.226414,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR039">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6600 Fraser&lt;br&gt;Nearest Intersection: E 50th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.224402,-123.09099'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.09099,49.224402,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR040">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 6600 Fraser&lt;br&gt;Nearest Intersection: E 51st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.223711,-123.090676'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090676,49.223711,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR041">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 3300 Fraser&lt;br&gt;Nearest Intersection: W 17th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.255424,-123.09002'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.09002,49.255424,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR042">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner&lt;br&gt;Nearest Intersection: Durward Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.24096,-123.090222'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090222,49.24096,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR043">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North Side&lt;br&gt;Nearest Intersection: 577 Great Northern Way&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.266857,-123.090946'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.090946,49.266857,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR044">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 1000 GNW&lt;br&gt;Nearest Intersection: Glen Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.265333,-123.081505'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.081505,49.265333,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR045">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2500 Guelph&lt;br&gt;Nearest Intersection: E Broadway&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.262366,-123.094995'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.094995,49.262366,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR046">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 3200 Heather&lt;br&gt;Nearest Intersection: W 16th St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.25689,-123.120171'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.120171,49.25689,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR047">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 400 Heatley&lt;br&gt;Nearest Intersection: E Hastings St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.28098,-123.089615'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.089615,49.28098,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR048">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner Jervis at W Cordova&lt;br&gt;Nearest Intersection: W Cordova St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.290014,-123.124131'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.124131,49.290014,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR049">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 100 Kingsway&lt;br&gt;Nearest Intersection: E 10th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.262102,-123.098631'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.098631,49.262102,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR050">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1200 Kingsway&lt;br&gt;Nearest Intersection: Clark Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.251441,-123.078317'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.078317,49.251441,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR051">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1500 Kingsway&lt;br&gt;Nearest Intersection: Perry St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.248228,-123.071483'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.071483,49.248228,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR052">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1700 Kingsway&lt;br&gt;Nearest Intersection: Commercial St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.246633,-123.068062'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.068062,49.246633,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR053">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 2100 Kingsway&lt;br&gt;Nearest Intersection: Sidney St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.244337,-123.063652'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.063652,49.244337,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR054">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 2200 Kingsway&lt;br&gt;Nearest Intersection: Baldwin St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.242195,-123.059085'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.059085,49.242195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR055">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 2700 Kingsway&lt;br&gt;Nearest Intersection: Rhodes St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.238085,-123.05012'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.05012,49.238085,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR056">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 3400 Kingsway&lt;br&gt;Nearest Intersection: Battison St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.231879,-123.030432'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.030432,49.231879,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR057">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 3400 Kingsway&lt;br&gt;Nearest Intersection: Tyne St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.232162,-123.031349'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.031349,49.232162,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR058">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 3400 Kingsway&lt;br&gt;Nearest Intersection: Ormidale St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.232147,-123.024927'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.024927,49.232147,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR059">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 2300 MacDonald&lt;br&gt;Nearest Intersection: W 8th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.265073,-123.168298'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.168298,49.265073,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR060">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 4000 MacDonald&lt;br&gt;Nearest Intersection: Alamein Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.250183,-123.16773'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.16773,49.250183,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR061">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 1900 Main&lt;br&gt;Nearest Intersection: E 3rd Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 7-9:30am/3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268109,-123.100977'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100977,49.268109,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR062">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2000 Main&lt;br&gt;Nearest Intersection: E 4th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: 3-6pm&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.267199,-123.101017'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101017,49.267199,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR063">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 3700 Main&lt;br&gt;Nearest Intersection: E 21st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.251684,-123.101152'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101152,49.251684,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR064">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 4000 Main&lt;br&gt;Nearest Intersection: E 24th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.249426,-123.101225'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101225,49.249426,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR065">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 4500 Main&lt;br&gt;Nearest Intersection: E 29th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.244364,-123.101505'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101505,49.244364,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR066">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 5600 Main&lt;br&gt;Nearest Intersection: E Woodstock&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.233512,-123.101738'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101738,49.233512,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR067">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 3400 Main&lt;br&gt;Nearest Intersection: E 19th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.253979,-123.100746'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100746,49.253979,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR068">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 3500 Main&lt;br&gt;Nearest Intersection: E 19th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.253609,-123.10101'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.10101,49.253609,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR069">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6400 Main&lt;br&gt;Nearest Intersection: E 48th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.226568,-123.101701'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101701,49.226568,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR070">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 6500 Main&lt;br&gt;Nearest Intersection: E 50th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.224858,-123.101537'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101537,49.224858,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR071">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6600 Main&lt;br&gt;Nearest Intersection: E 50th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.22459,-123.10178'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.10178,49.22459,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR072">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 6600 Main&lt;br&gt;Nearest Intersection: E 51st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.223906,-123.101576'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101576,49.223906,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR073">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 3600 Main&lt;br&gt;Nearest Intersection: E 21st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.252209,-123.100815'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100815,49.252209,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR074">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 3600 Main&lt;br&gt;Nearest Intersection: E 23rd Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.250357,-123.100875'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.100875,49.250357,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR075">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1400 Maple&lt;br&gt;Nearest Intersection: Cornwall Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.272677,-123.150075'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.150075,49.272677,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR076">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North side near 1037&lt;br&gt;Nearest Intersection: 1033 Marinaside Crescent&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273264,-123.116635'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.116635,49.273264,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR077">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South Side Mid Block 1128 Marinaside Cr.&lt;br&gt;Nearest Intersection: Drake St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.272392,-123.120637'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.120637,49.272392,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR078">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner&lt;br&gt;Nearest Intersection: Quebec St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.276112,-123.101785'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.101785,49.276112,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR079">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 500 Moberly&lt;br&gt;Nearest Intersection: Commodore Road&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.267039,-123.117686'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117686,49.267039,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR080">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: Near Crosswalk&lt;br&gt;Nearest Intersection: North of Commodore Road&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.267308,-123.117472'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.117472,49.267308,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR081">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North Side&lt;br&gt;Nearest Intersection: Beach Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.288205,-123.142211'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.142211,49.288205,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR082">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 0 Nelson&lt;br&gt;Nearest Intersection: Pacific Boulevard&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.274289,-123.115031'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.115031,49.274289,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR083">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 100 Nelson&lt;br&gt;Nearest Intersection: Expo Boulevard&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.275192,-123.116291'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.116291,49.275192,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR084">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 100 Nelson&lt;br&gt;Nearest Intersection: Beatty St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.275406,-123.11667'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.11667,49.275406,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR085">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: W 7th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.264562,-123.104902'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.104902,49.264562,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR086">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South of Richards&lt;br&gt;Nearest Intersection: Richards St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273388,-123.127173'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127173,49.273388,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR087">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 500 Pacific&lt;br&gt;Nearest Intersection: Richards St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273815,-123.127841'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127841,49.273815,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR088">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 600 Pacific&lt;br&gt;Nearest Intersection: Seymour Mews&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273815,-123.127841'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127841,49.273815,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR089">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2300 Pine&lt;br&gt;Nearest Intersection: W 7th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.265282,-123.143408'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.143408,49.265282,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR090">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner&lt;br&gt;Nearest Intersection: Gore Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.284294,-123.09769'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.09769,49.284294,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR091">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 1400 Richards&lt;br&gt;Nearest Intersection: Pacific St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.273543,-123.127666'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127666,49.273543,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR092">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 1500 Scotia&lt;br&gt;Nearest Intersection: Terminal Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.271837,-123.095593'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.095593,49.271837,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR093">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 400 Terminal&lt;br&gt;Nearest Intersection: Scotia St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.271869,-123.095268'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.095268,49.271869,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR094">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 500 Terminal&lt;br&gt;Nearest Intersection: Thornton St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.27149,-123.093113'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.093113,49.27149,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR095">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 1400 Thornton&lt;br&gt;Nearest Intersection: Evans Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.272591,-123.093044'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.093044,49.272591,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR096">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North of Burnaby 1200 Thurlow&lt;br&gt;Nearest Intersection: Burnaby St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.279765,-123.132038'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.132038,49.279765,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR097">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South of Burnaby 1200 Thurlow&lt;br&gt;Nearest Intersection: Burnaby St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.279604,-123.132476'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.132476,49.279604,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR098">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1400 Thurlow&lt;br&gt;Nearest Intersection: Beach Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.277648,-123.135253'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.135253,49.277648,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR099">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 2600 Trimble&lt;br&gt;Nearest Intersection: W 10th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.26366,-123.206219'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.206219,49.26366,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR100">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 1500 Venables&lt;br&gt;Nearest Intersection: Woodland Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.276756,-123.072926'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.072926,49.276756,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR101">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner&lt;br&gt;Nearest Intersection: Woodland Drive&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.276648,-123.072557'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.072557,49.276648,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR102">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 5300 Victoria&lt;br&gt;Nearest Intersection: E 37th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.236574,-123.065549'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.065549,49.236574,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR103">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 5500 Victoria&lt;br&gt;Nearest Intersection: E 38th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.235141,-123.065589'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.065589,49.235141,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR104">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 5500 Victoria&lt;br&gt;Nearest Intersection: E 39th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.235023,-123.065356'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.065356,49.235023,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR105">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 5500 Victoria&lt;br&gt;Nearest Intersection: E 40th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.234042,-123.065381'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.065381,49.234042,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR106">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: Kitchener St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.271961,-123.065784'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.065784,49.271961,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR107">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: E 7th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.264047,-123.06594'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.06594,49.264047,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR108">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner&lt;br&gt;Nearest Intersection: E 8th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.263325,-123.06579'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.06579,49.263325,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR109">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: E 10th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.261215,-123.066003'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.066003,49.261215,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR110">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 900 W 16th Av&lt;br&gt;Nearest Intersection: Oak St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.257074,-123.127012'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.127012,49.257074,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR111">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 100 W 2nd Av&lt;br&gt;Nearest Intersection: Manitoba St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.269365,-123.106733'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.106733,49.269365,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR112">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 2600 West 4th&lt;br&gt;Nearest Intersection: Stephens St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268242,-123.166177'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.166177,49.268242,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR113">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 2700 West 4th&lt;br&gt;Nearest Intersection: Stephens St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268439,-123.166529'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.166529,49.268439,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR114">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 3500 West 4th&lt;br&gt;Nearest Intersection: Dunbar St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268495,-123.183442'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.183442,49.268495,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR115">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 3600 West 4th&lt;br&gt;Nearest Intersection: Dunbar St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.268694,-123.18381'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.18381,49.268694,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR116">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 1400 64th Av&lt;br&gt;Nearest Intersection: Granville St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.213102,-123.140144'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.140144,49.213102,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR117">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 1400 67th Av&lt;br&gt;Nearest Intersection: Granville St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.210833,-123.140123'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.140123,49.210833,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR118">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner 0W 6th Av&lt;br&gt;Nearest Intersection: Ontario St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.265635,-123.104955'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.104955,49.265635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR119">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 2300 W Broadway&lt;br&gt;Nearest Intersection: Balsam St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.263855,-123.159817'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.159817,49.263855,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR120">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South West Corner 3400 W Broadway&lt;br&gt;Nearest Intersection: Waterloo St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.26434,-123.180003'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.180003,49.26434,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR121">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North Side 60m West of Bute&lt;br&gt;Nearest Intersection: Bute St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.289553,-123.122794'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.122794,49.289553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR122">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 2000 Wall&lt;br&gt;Nearest Intersection: Powell St&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.284973,-123.063411'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.063411,49.284973,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR123">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner 6000 West Blvd&lt;br&gt;Nearest Intersection: W 44th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.231729,-123.155755'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.155755,49.231729,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR124">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: South East Corner 1600 Yew&lt;br&gt;Nearest Intersection: W 1st Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.270941,-123.154908'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.154908,49.270941,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR125">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: East Side near lane&lt;br&gt;Nearest Intersection: W 10th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2633,-123.155371'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.155371,49.2633,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR126">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North West Corner&lt;br&gt;Nearest Intersection: W 12th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.260201,-123.113056'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.113056,49.260201,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="MOTOR127">
+<name>Non-Metered Motorcycle Parking</name>
+<description>&lt;br&gt;Type: Non-Metered Motorcycle Parking&lt;br&gt;Time Limit: no&lt;br&gt;Rate: n/a&lt;br&gt;Credit Card Enabled: n/a&lt;br&gt;Location: North East Corner&lt;br&gt;Nearest Intersection: W 12th Av&lt;br&gt;Time in Effect: n/a&lt;br&gt;Rush Hour Regulation: n/a&lt;br&gt;&lt;br&gt;&lt;a href='http://maps.google.com/maps?daddr=49.2605577,-123.112943'&gt;Get directions&lt;/a&gt;</description>
+<styleUrl>#KMLStyler_11</styleUrl>
+<Point>
+<coordinates>-123.112943,49.2605577,0 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

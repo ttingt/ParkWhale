@@ -1,0 +1,37 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: About Us{% endblock %}
+
+{% block script_block %}{% endblock %}
+
+{% block body_block %}
+
+    <h1 class="pwtitle">ParkWhale & the 1000 Whaling Corpses: About Us</h1>
+
+    <p class="pwpar">Ahoy there, matey. Our crew of four welcome you with loads of heart-rending wailing.</p>
+    <p class="pwpar">ParkWhale is here to satisfy all your Vancouver-based street parking needs.
+        Use this site to check in advance for the parking rates and times so you can avoid
+        paying loads when all those free parking spots are taken. And figure out which street
+        nearby might just have slightly cheaper parking! Moreover, check out parking spots
+        dedicated for those with disabilities or motorcycles. We got 'em all, no fear.
+    </p>
+
+    <h2 class="pwtitle">So you're still reading, eh?</h2>
+    <p class="pwpar">Well then, matey, lemme tell you all about our team.</p>
+    <p class="pwpar">We be a team of four mighty undergrads at UBC (as of 2015) studying computer science.
+        This project was created as a project for one of our CS courses. The goal of the
+        project was to make a webapp within the 4 months of the course, following the Scrum
+        framework and based on various criteria. One of these requirements was to make use
+        of datasets provided by the City of Vancouver.
+    </p>
+
+    <h3 class = "pwtitle">Credits</h3>
+    <p class="pwpar">Datasets provided by: the City of Vancouver</p>
+        <li class="pwlist"><a href="http://data.vancouver.ca/datacatalogue/parkingMeter.htm">Parking meter data</a></li>
+        <li class="pwlist"><a href="http://data.vancouver.ca/datacatalogue/motorcycleParking.htm">Motorcycle parking</a></li>
+        <li class="pwlist"><a href="http://data.vancouver.ca/datacatalogue/disabilityParking.htm">Disability parking</a></li>
+        <li class="pwlist"><a href="http://data.vancouver.ca/datacatalogue/roadAhead.htm">Road closures</a></li>
+
+{% endblock %}

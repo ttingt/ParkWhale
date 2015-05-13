@@ -1,0 +1,80 @@
+{% extends 'pw/base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}ParkWhale: Favourite Spots{% endblock %}
+
+{% block script_block %}
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+{% endblock %}
+
+{% block body_block %}
+
+    <h1 class="pwtitle">Your favorwhale parking spots!</h1>
+    <br>
+
+    {% if meters %}
+        <h2 class="pwtitle">General Metered Spots:</h2>
+        <ul class="pwlist" style="list-style-type:circle">
+            {% for m in meters %}
+            <li>
+                <a class="pwtitle" href="/regular/meter/{{ m.name }}">Meter Spot #{{ m.name }}</a>
+                <p class="pwtitle" id="meter-address-reg{{m.name}}"></p>
+            </li>
+            <script>
+                $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng={{ m.lat }},{{ m.lng }}', {}, function(data){
+                    if (data.status == google.maps.GeocoderStatus.OK) {
+                        var address = "Address: " + data.results[0].formatted_address;
+                        document.getElementById("meter-address-reg{{m.name}}").innerHTML = address;
+                    }
+                });
+            </script>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if handimeters %}
+        <h2 class="pwtitle">Handicap Metered Spots:</h2>
+        <ul class="pwlist" style="list-style-type:circle">
+            {% for m in handimeters %}
+            <li>
+                <a class="pwtitle" href="/handicap/meter/{{ m.name }}">Handicap Meter Spot #{{ m.name }}</a>
+                <p class="pwtitle" id="meter-address-handi{{m.name}}"></p>
+            </li>
+            <script>
+                $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng={{ m.lat }},{{ m.lng }}', {}, function(data){
+                    if (data.status == google.maps.GeocoderStatus.OK) {
+                        var address = "Address: " + data.results[0].formatted_address;
+                        document.getElementById("meter-address-handi{{m.name}}").innerHTML = address;
+                    }
+                });
+            </script>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if motometers %}
+        <h2 class="pwtitle">Motorcycle Metered Spots:</h2>
+        <ul class="pwlist" style="list-style-type:circle">
+            {% for m in motometers %}
+            <li>
+                <p class="pwtitle" href="/motorcycle/meter/{{ m.name }}">Motorcycle Meter Spot #{{ m.name }}</p>
+                <p class="pwtitle" id="meter-address-moto{{ m.name }}"></p>
+            </li>
+            <script>
+                $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng={{ m.lat }},{{ m.lng }}', {}, function(data){
+                    if (data.status == google.maps.GeocoderStatus.OK) {
+                        var address = "Address: " + data.results[0].formatted_address;
+                        document.getElementById("meter-address-moto{{m.name}}").innerHTML = address;
+                    }
+                });
+            </script>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if not meters and not handimeters and not motometers %}
+        <p class="pwpar">You haven't favourited any spots yet! <br> <br>Share the parking love <3!</p>
+    {% endif %}
+
+{% endblock %}

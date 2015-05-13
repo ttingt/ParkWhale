@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://earth.google.com/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Schema name="Road_Closures" id="Road_Closures">
+<SimpleField type="string" name="PROJECT_TITLE"/>
+<SimpleField type="string" name="STREET"/>
+<SimpleField type="string" name="LOCATION"/>
+<SimpleField type="string" name="EXPECTED_COMPLETION_DATE"/>
+<SimpleField type="string" name="URL_LINK"/>
+</Schema>
+<Style id="KMLStyler_2">
+<LabelStyle>
+</LabelStyle>
+<LineStyle>
+<color>ff0000ff</color>
+<colorMode>normal</colorMode>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<colorMode>normal</colorMode>
+</PolyStyle>
+</Style>
+<name>road_closures</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Road_Closures">
+<name>Road_Closures</name>
+<Placemark id="kml_1">
+<name>Sewer Main Replacement Project at 100 blk E 1st Avenue</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Main Replacement Project at 100 blk E 1st Avenue
+STREET:E 1ST AV
+LOCATION:E 1st Avenue from Main St to Quebec St
+EXPECTED_COMPLETION_DATE:Oct 22 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9716'&gt;Sewer Main Replacement Project at 100 blk E 1st Avenue&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Main Replacement Project at 100 blk E 1st Avenue</SimpleData>
+<SimpleData name="STREET">E 1ST AV</SimpleData>
+<SimpleData name="LOCATION">E 1st Avenue from Main St to Quebec St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Oct 22 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9716'&gt;Sewer Main Replacement Project at 100 blk E 1st Avenue&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.102570024263,49.2701519662638,3.818 -123.100657487765,49.2701172385547,4.972 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_2">
+<name>Road and Lane Closures at 8800 Blk Osler Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Road and Lane Closures at 8800 Blk Osler Street
+STREET:OSLER ST
+LOCATION:Osler Street from W 72nd Avenue to SW Marine Drive
+EXPECTED_COMPLETION_DATE:Oct 24 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Road and Lane Closures at 8800 Blk Osler Street</SimpleData>
+<SimpleData name="STREET">OSLER ST</SimpleData>
+<SimpleData name="LOCATION">Osler Street from W 72nd Avenue to SW Marine Drive</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Oct 24 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.131761165106,49.2047329918347,6.478 -123.131778149778,49.2042613030409,5.213 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_3">
+<name>Road and Lane Closures at 8800 Blk Osler Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Road and Lane Closures at 8800 Blk Osler Street
+STREET:OSLER ST
+LOCATION:Osler Street from W 72nd Avenue to SW Marine Drive
+EXPECTED_COMPLETION_DATE:Oct 24 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Road and Lane Closures at 8800 Blk Osler Street</SimpleData>
+<SimpleData name="STREET">OSLER ST</SimpleData>
+<SimpleData name="LOCATION">Osler Street from W 72nd Avenue to SW Marine Drive</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Oct 24 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.131778149778,49.2042613030409,5.213 -123.131788186584,49.2039823198201,5.538 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_4">
+<name>Sewer Service Connection at 4500 blk Clarendon St</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Service Connection at 4500 blk Clarendon St
+STREET:CLARENDON ST
+LOCATION:Clarendon St frp, E 29th Ave to Brock St
+EXPECTED_COMPLETION_DATE:Sep 23 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9728'&gt;Sewer Service Connection at 4500 blk Clarendon St&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Service Connection at 4500 blk Clarendon St</SimpleData>
+<SimpleData name="STREET">CLARENDON ST</SimpleData>
+<SimpleData name="LOCATION">Clarendon St frp, E 29th Ave to Brock St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 23 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9728'&gt;Sewer Service Connection at 4500 blk Clarendon St&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.053017384996,49.2441656712338,86.898 -123.053456688066,49.243713921019,87.253 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_5">
+<name>Sewer Service Connection at 4500 blk Clarendon St</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Service Connection at 4500 blk Clarendon St
+STREET:CLARENDON ST
+LOCATION:Clarendon St frp, E 29th Ave to Brock St
+EXPECTED_COMPLETION_DATE:Sep 23 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9728'&gt;Sewer Service Connection at 4500 blk Clarendon St&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Service Connection at 4500 blk Clarendon St</SimpleData>
+<SimpleData name="STREET">CLARENDON ST</SimpleData>
+<SimpleData name="LOCATION">Clarendon St frp, E 29th Ave to Brock St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 23 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9728'&gt;Sewer Service Connection at 4500 blk Clarendon St&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.052574165013,49.2446221522554,85.079 -123.053017384996,49.2441656712338,86.898 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_6">
+<name>Terry Fox Way Project</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Terry Fox Way Project
+STREET:TERRY FOX WAY
+LOCATION:From Expo Boulevard to Pacific Boulevard
+EXPECTED_COMPLETION_DATE:  
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=7950'&gt;Terry Fox Way Project&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Terry Fox Way Project</SimpleData>
+<SimpleData name="STREET">TERRY FOX WAY</SimpleData>
+<SimpleData name="LOCATION">From Expo Boulevard to Pacific Boulevard</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">  </SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=7950'&gt;Terry Fox Way Project&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.114038075667,49.2763718286505,0 -123.11407384466,49.2760462640768,5.576 -123.114075644659,49.2760398756926,5.576 -123.11407727964,49.2760334694809,5.576 -123.114078749603,49.2760270454416,5.576 -123.1140800408,49.2760206035884,5.576 -123.114081153232,49.2760141439212,5.576 -123.114082100667,49.2760076754219,5.576 -123.114082869358,49.2760011981037,5.103 -123.114083473072,49.2759947209484,5.103 -123.114083898021,49.2759882259792,5.103 -123.114084157994,49.2759817311728,5.103 -123.114084239243,49.2759752365431,5.103 -123.114084141769,49.2759687420897,5.103 -123.114083879319,49.2759622477992,5.103 -123.114083438146,49.2759557536852,5.103 -123.114082832017,49.2759492687292,5.103 -123.114082047187,49.2759427929449,5.103 -123.114081083654,49.2759363263322,5.103 -123.114079955187,49.2759298778728,5.103 -123.114078647996,49.2759234295898,5.103 -123.114077175893,49.2759170084552,5.103 -123.114075538857,49.2759106054739,5.103 -123.114073723118,49.2759042116641,5.103 -123.11407172874,49.2758978540116,5.103 -123.114069583155,49.2758915055034,5.032 -123.114067258931,49.2758851931524,5.032 -123.114064769794,49.2758789079498,5.032 -123.114062101976,49.2758726409139,5.032 -123.114059283035,49.2758664190031,5.032 -123.114056285434,49.2758602242543,5.032 -123.11405313669,49.2758540656354,5.032 -123.114049809306,49.2758479431735,5.032 -123.114046330779,49.2758418568416,5.032 -123.114042687381,49.2758358156484,5.032 -123.114038879092,49.2758298105985,5.032 -123.114034919701,49.2758238596689,5.032 -123.114030795419,49.2758179448827,5.032 -123.114026520035,49.2758120842168,5.032 -123.114022079782,49.2758062686894,5.032 -123.114017488426,49.2758005072822,5.032 -123.114012745969,49.2757947999952,5.032 -123.114007852411,49.2757891468282,4.581 -123.114002807771,49.2757835567767,4.581 -123.113997612031,49.2757780208452,4.581 -123.113992278937,49.2757725390202,4.581 -123.113986794783,49.2757671293058,4.581 -123.113981159527,49.2757617737113,4.581 -123.113975400708,49.2757564902001,4.581 -123.11396947706,49.2757512698176,4.581 -123.113968802044,49.2757506767986,4.581 -123.113564528969,49.2753967085516,4.392 -123.113541938339,49.2753774540314,4.392 -123.113518825888,49.2753584518871,4.736 -123.113495219176,49.2753397290769,4.736 -123.113471104412,49.2753212676238,4.736 -123.113446509134,49.2753030854907,4.281 -123.113421433363,49.2752851916725,4.281 -123.113395890846,49.2752675861555,4.281 -123.113369867856,49.275250277948,4.65 -123.113343391869,49.2752332580275,4.65 -123.113316476693,49.2752165533658,4.65 -123.113289108561,49.2752001549809,4.491 -123.113261314988,49.2751840718406,4.491 -123.113233082247,49.2751683129533,4.491 -123.113204451582,49.2751528782782,4.798 -123.113175409243,49.2751377678286,4.798 -123.113145955253,49.2751229905994,4.798 -123.113128668803,49.2751145610474,4.798 -123.113104985601,49.2751043567139,4.527 -123.113081041841,49.2750944314831,4.527 -123.113056837501,49.2750847763598,4.527 -123.113037917715,49.2750774907894,4.527 -123.113029180956,49.275074449974,4.527 -123.113020375707,49.2750715171677,4.527 -123.113011488198,49.2750686833889,4.527 -123.113002532178,49.2750659486239,4.527 -123.11299349392,49.2750633218814,4.527 -123.112984400898,49.2750607941394,4.527 -123.112975225617,49.2750583654246,4.527 -123.112965995613,49.2750560537006,4.527 -123.112956710846,49.275053840977,4.724 -123.112947357587,49.2750517362622,4.724 -123.112939187453,49.2750499901968,4.724 -123.112689014731,49.2749933222041,4.687 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_7">
+<name>Sewer Main Reconstruction at 600 Blk Kootenay Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Main Reconstruction at 600 Blk Kootenay Street
+STREET:KOOTENAY ST
+LOCATION:Kootenay St from Turner St to E Georgia St
+EXPECTED_COMPLETION_DATE:Sep 30 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9179'&gt;Sewer Main Reconstruction at 600 Blk Kootenay Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Main Reconstruction at 600 Blk Kootenay Street</SimpleData>
+<SimpleData name="STREET">KOOTENAY ST</SimpleData>
+<SimpleData name="LOCATION">Kootenay St from Turner St to E Georgia St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 30 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9179'&gt;Sewer Main Reconstruction at 600 Blk Kootenay Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.025700351514,49.2790675305185,43.086 -123.025702698198,49.2786593077901,40.975 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_8">
+<name>Sewer Main Reconstruction at 600 Blk Kootenay Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Main Reconstruction at 600 Blk Kootenay Street
+STREET:KOOTENAY ST
+LOCATION:Kootenay St from Turner St to E Georgia St
+EXPECTED_COMPLETION_DATE:Sep 30 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9179'&gt;Sewer Main Reconstruction at 600 Blk Kootenay Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Main Reconstruction at 600 Blk Kootenay Street</SimpleData>
+<SimpleData name="STREET">KOOTENAY ST</SimpleData>
+<SimpleData name="LOCATION">Kootenay St from Turner St to E Georgia St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 30 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9179'&gt;Sewer Main Reconstruction at 600 Blk Kootenay Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.025702698198,49.2786593077901,40.975 -123.025703298531,49.2782506356547,38.555 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_9">
+<name>Road Closure: Event at  500 Blk Homer Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Road Closure: Event at  500 Blk Homer Street
+STREET:HOMER ST
+LOCATION:Homer St from W Pender St to Dunsmuir St
+EXPECTED_COMPLETION_DATE:Sep 27 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9798'&gt;Road Closure: Event at  500 Blk Homer Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Road Closure: Event at  500 Blk Homer Street</SimpleData>
+<SimpleData name="STREET">HOMER ST</SimpleData>
+<SimpleData name="LOCATION">Homer St from W Pender St to Dunsmuir St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 27 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9798'&gt;Road Closure: Event at  500 Blk Homer Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.111913881948,49.2827610388029,23.528 -123.112394428604,49.2824430044399,25.431 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_10">
+<name>Sewer Main Reconstruction  2600 Blk W 8th Avenue (Part of Bike Route)Phase II</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Sewer Main Reconstruction  2600 Blk W 8th Avenue (Part of Bike Route)Phase II
+STREET:W 8TH AV
+LOCATION:W 8th Avenue from Stephen St to Trafalgar St
+EXPECTED_COMPLETION_DATE:Oct 22 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9245'&gt;Sewer Main Reconstruction  2600 Blk W 8th Avenue (Part of Bike Route)Phase II&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Sewer Main Reconstruction  2600 Blk W 8th Avenue (Part of Bike Route)Phase II</SimpleData>
+<SimpleData name="STREET">W 8TH AV</SimpleData>
+<SimpleData name="LOCATION">W 8th Avenue from Stephen St to Trafalgar St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Oct 22 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9245'&gt;Sewer Main Reconstruction  2600 Blk W 8th Avenue (Part of Bike Route)Phase II&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.164639606983,49.2649075639078,22.103 -123.166482749571,49.2649350676444,21.726 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_11">
+<name>Road and Lane Closures at 8800 Blk Osler Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Road and Lane Closures at 8800 Blk Osler Street
+STREET:OSLER ST
+LOCATION:Osler Street from W 72nd Avenue to SW Marine Drive
+EXPECTED_COMPLETION_DATE:Oct 24 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Road and Lane Closures at 8800 Blk Osler Street</SimpleData>
+<SimpleData name="STREET">OSLER ST</SimpleData>
+<SimpleData name="LOCATION">Osler Street from W 72nd Avenue to SW Marine Drive</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Oct 24 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9305'&gt;Road and Lane Closures at 8800 Blk Osler Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.131728026555,49.2056642422451,11.119 -123.131761165106,49.2047329918347,6.478 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_12">
+<name>Road Closure: Event at  500 Blk Homer Street</name>
+<Snippet> </Snippet>
+<description>Attributes:
+PROJECT_TITLE:Road Closure: Event at  500 Blk Homer Street
+STREET:HOMER ST
+LOCATION:Homer St from W Pender St to Dunsmuir St
+EXPECTED_COMPLETION_DATE:Sep 27 2014
+URL_LINK:&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9798'&gt;Road Closure: Event at  500 Blk Homer Street&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler_2</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#Road_Closures">
+<SimpleData name="PROJECT_TITLE">Road Closure: Event at  500 Blk Homer Street</SimpleData>
+<SimpleData name="STREET">HOMER ST</SimpleData>
+<SimpleData name="LOCATION">Homer St from W Pender St to Dunsmuir St</SimpleData>
+<SimpleData name="EXPECTED_COMPLETION_DATE">Sep 27 2014</SimpleData>
+<SimpleData name="URL_LINK">&lt;a href='http://app.vancouver.ca/roadahead_net/ProjectOverView.aspx?ID=9798'&gt;Road Closure: Event at  500 Blk Homer Street&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>-123.112394428604,49.2824430044399,25.431 -123.113478185392,49.2817260507952,29.535 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document></kml>
